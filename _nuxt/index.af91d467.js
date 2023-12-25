@@ -1,0 +1,1 @@
+import{_ as t}from"./QPage.5b342e41.js";import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as n,c as _,w as c,k as a}from"./entry.0b5c1ddf.js";const r={};function s(p,m){const e=t;return n(),_(e,null,{default:c(()=>[a(" Empty landing page... ")]),_:1})}const l=o(r,[["render",s]]);export{l as default};
